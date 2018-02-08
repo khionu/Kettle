@@ -1,8 +1,7 @@
 
-<div style="background:yellow">
-Since Contigo <s>Thermos</s> is no longer being actively developed or not being developed <u>at all</u> and servers are reduced to using SpongeForge for 1.12+ (Not SpongeVanilla, because spigot), this project is dedicated to renewing the ability for Minecraft servers to use native spigot <s>bukkit</s> plugins along with Forge mods.
-</div>
+Since Contigo ~~Thermos~~ is no longer being actively developed or not being developed __at all__ and servers are reduced to using SpongeForge for 1.12+ (Not SpongeVanilla, because spigot), this project is dedicated to renewing the ability for Minecraft servers to use native spigot ~~bukkit~~ plugins along with Forge mods.
 
+---
 
 ![Kettle](https://i.imgur.com/gkmTKvR.png)
 
@@ -41,7 +40,7 @@ You are welcome to visit Kettle Discord server [here](https://discord.gg/RqDjbcM
 ## Building Kettle
 
 ### Requirements
-* Forge 1.12.2-14.23.1.2603
+* Forge 1.12.2-14.23.2.2611
 * Minecraft 1.12.2
 
 WIP
