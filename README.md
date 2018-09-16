@@ -1,3 +1,6 @@
+Kettle has and will never, and does not condone third parties who do so, use defamation of other services or products to promote itself
+
+---
 
 Since Contigo ~~Thermos~~ is no longer being actively developed or not being developed __at all__ and servers are reduced to using SpongeForge for 1.12+ (Not SpongeVanilla, because spigot), this project is dedicated to renewing the ability for Minecraft servers to use native spigot ~~bukkit~~ plugins along with Forge mods.
 
